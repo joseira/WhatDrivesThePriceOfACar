@@ -1,4 +1,4 @@
-[Colab File](WhatDrivesThePriceOfACar.ipnyb)
+[Colab File](WhatDrivesThePriceOfACar.ipynb)
 
 # Business Objective
 
