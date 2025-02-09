@@ -1,11 +1,11 @@
-(Colab File)[WhatDrivesThePriceOfACar.ipnyb]
+[Colab File](WhatDrivesThePriceOfACar.ipnyb)
 
-#Business Objective
+# Business Objective
 
 The objective of this project is to create a model that can predict the price of a used car, given features as manufacturer, model, condition, cylinders, fuel, odometer, title status, transmition, drive, size, region, state.
 This problem can be solved by building a regression model that takes as input the features that impact more significatly price, and predicts the estimate price as output.
 
-#Results
+# Results
 
 Given that the RMSE is a high and the R² is only 0.44, the model is not perfect, but it already offers some insights into which factors are impacting on the price of used cars. However, to make more robust decisions, it is important to improve the model by using techniques such as:
 Adding interactions or new features. A better knowing of the business that allow to determined what data could be affecting significativly the model. For example, why odometer has so many values = 0? We decided to delete those records of the Data but maybe there is an explanation for that.
